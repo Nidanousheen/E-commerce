@@ -13,16 +13,21 @@ For guidance and inspiration, numerous tutorials, videos, and source codes were 
 The development process posed several challenges, including encountering numerous coding errors, difficulty in finding suitable website imagery, struggling to finalize designs, and spending significant time debugging.
 
 PHASES OF WORK:
-Planning and Research (Week 1):
+**Design and Wireframing (Week 1)*:
 1. Defined the desired appearance and functionality of the website.
 2. Gathered necessary resources and studied relevant source codes.
 3. Engaged with various tutorial videos to enhance understanding.
-
-Execution and Frontend Development (Week 2):
-1. Initiated coding using HTML, CSS, and JavaScript.
+4.  Sketch out the website's layout and color scheme.
+5. Plan the content  structure.
+**Frontend Development (Week 2)*:
+1. Initiated coding using HTML, CSS, and JavaScript.   
 2. Successfully completed frontend development and seamlessly integrated with backend components.
-
-Testing and Refinement (Week 3):
+   
+**Testing and Refinement (Week 3)*:
 1. Addressed coding errors and implemented necessary changes.
 2. Resolved bugs and rectified issues.
 3. Deployed the website to the hosting server for public access.
+   
+**Deployment and Launch (Week 4)*:
+- Host the websit on GitHub.
+   
